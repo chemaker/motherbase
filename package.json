@@ -1,0 +1,26 @@
+{
+  "name": "motherbase",
+  "version": "1.0.0",
+  "description": "This is our motherbase.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chemaker/motherbase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chemaker/motherbase/issues"
+  },
+  "homepage": "https://github.com/chemaker/motherbase",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.7.0"
+  }
+}
